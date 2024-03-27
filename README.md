@@ -11,3 +11,25 @@ Can Cut, Copy & Paste Values in a range of cells.
 Can Download as well as upload sheets.
 
 See Live Demo: https://excel-clone-zeta.vercel.app
+
+
+Screenshots
+Main Page Cycle Detection Cycle Tracing Copy Paste
+
+Technologies Stack:
+
+.HTML
+.CSS
+.Javascript
+
+Insights:-
+
+2D Array of objects is used for storing cells and sheets data.
+Cycle Detection in formula is detected by using dfs.
+Google Material Icons is used.
+Various DOM events such as click, blur, etc are used.
+
+How to install:-
+Clone the project onto your local machine.
+Open index.html file in browser.
+That's it now your own excel is ready for use.
